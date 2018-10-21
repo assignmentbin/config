@@ -1,0 +1,6 @@
+server:
+ port:
+  8180
+client:
+ registerWithEureka:false
+ fetchRegistry:false
